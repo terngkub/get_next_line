@@ -2,7 +2,7 @@
 A function that return a line read from a file descriptor.
 
 ### About this project
-* This is an individual project at 42.
+* This is an individual project at [École 42](https://42.fr).
 * The objective is to create a function that return a line read from a file descriptor.
 * The libc functions allowed on this project are read, malloc and free.
 * Static variables are allowed.
